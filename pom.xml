@@ -8,9 +8,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <sonar.organization>BADREDDINE Achraf</sonar.organization>
+        
+        <sonar.projectKey>achraf-hh_sonar-test</sonar.projectKey>
+        <sonar.organization>achraf-hh</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
