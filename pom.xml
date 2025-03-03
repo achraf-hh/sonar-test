@@ -12,6 +12,7 @@
         <sonar.projectKey>achraf-hh_sonar-test</sonar.projectKey>
         <sonar.organization>achraf-hh</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.sources>src</sonar.sources>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
